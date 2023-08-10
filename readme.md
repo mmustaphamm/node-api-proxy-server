@@ -30,5 +30,3 @@ You can add on any other query params as needed when hitting the /api endpoint s
 
 - Add new routes as you see fit
 - Change rate limiting and caching to desired values
-
-This project is from this [YouTube tutorial](https://youtu.be/ZGymN8aFsv4)
